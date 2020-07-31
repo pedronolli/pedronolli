@@ -1,6 +1,10 @@
 ## Hey there!
-### My name is Pedro, i live in Brazil (Br). I've been working as Software Developer since 2018 and currently I work with personal projects. I love talking about software architecture :heart: 
+My name is Pedro, i live in Brazil (BR). I've been working as Software Developer since 2018 and currently I work with personal projects. I love talking about software architecture :heart: 
 
+
+### Want to know more about me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-nolli)](https://www.linkedin.com/in/pedro-nolli)
 
 <!--
 **pedronolli/pedronolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
