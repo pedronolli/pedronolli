@@ -1,5 +1,5 @@
-### Hey there!
-## My name is Pedro, i live in Brazil (Br). I've been working as Software Developer since 2018 and currently I work with personal projects. I love talking about software architecture :heart: 
+## Hey there!
+### My name is Pedro, i live in Brazil (Br). I've been working as Software Developer since 2018 and currently I work with personal projects. I love talking about software architecture :heart: 
 
 
 <!--
